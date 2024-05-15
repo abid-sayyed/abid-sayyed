@@ -15,7 +15,7 @@ I hold a Master's degree from VIT Vellore and specialize in JavaScript/Typescrip
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abid-sayyed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+###  Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
