@@ -8,6 +8,8 @@
 
 🔍 Excited about opportunities to leverage my skills and contribute positively to innovative projects.
 
+📧 Let's connect at abid.sayyed.work@gmail.com to discuss how my expertise aligns with your organization's needs. 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abid-sayyed-88437b193) 
