@@ -2,7 +2,7 @@
 
 🎓 Master's graduate from VIT Vellore with a specialization in JavaScript/TypeScript and Python development.
 
-💼 Over 1 year of industry experience contributing to enterprise management systems, with a focus on both frontend and backend technologies such as PHP, React, Tailwind CSS, Node.js, Express.js, MySQL, PostgreSQL.
+💼 Over 2 year of industry experience contributing to enterprise management systems, with a focus on both frontend and backend technologies such as PHP, React, Tailwind CSS, Node.js, Express.js, MySQL, PostgreSQL.
 
 🚀 Additionally, proficient in Next.js, Django, and Flask, with a passion for crafting efficient and scalable solutions.
 
